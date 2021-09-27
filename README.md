@@ -1,6 +1,6 @@
 ### Hi there 👋, Kaan Ince
 #### Development
-![Development](https://github.com/kaaniince/kaaniince/blob/main/33f85ae4b62c8bbaf20283852fa74655.jpg)
+![Development](https://github.com/kaaniince/kaaniince/blob/main/fall_desktop_dark_mode.jpg)
 
 I'm Kaan from Turkey,and I do content on Development. I really enjoy learning languages and frameworks.
 
