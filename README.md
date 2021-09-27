@@ -6,7 +6,7 @@ I'm Kaan from Turkey,and I do content on Development. I really enjoy learning la
 
 Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON / PHP
 
-- 🌱 I’m currently learning ML 
+- 🌱 I’m currently learning Data Science and ML 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kaaniince/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iincekaan)  
