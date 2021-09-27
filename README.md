@@ -1,10 +1,16 @@
-### Hi there 👋, Kaan Ince
-#### Development
 ![Development](https://github.com/kaaniince/kaaniince/blob/main/fall_desktop_dark_mode.jpg)
+
+## Kaan Ince
 
 I'm Kaan from Turkey,and I do content on Development. I really enjoy learning languages and frameworks.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON / PHP
+### Skills and  Experience
+
+* ⚛ React 
+* 💻 HTML, CSS, JS, PHP
+* 🔍 Python
+
+
 
 - 🌱 I’m currently learning Data Science and ML 
 
