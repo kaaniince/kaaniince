@@ -1,6 +1,6 @@
 ### Hi there 👋, Kaan Ince
 #### Development
-![Development]https://github.com/kaaniince/kaaniince/blob/main/33f85ae4b62c8bbaf20283852fa74655.jpg
+![Development](https://github.com/kaaniince/kaaniince/blob/main/33f85ae4b62c8bbaf20283852fa74655.jpg
 I'm Kaan from Turkey,and I do content on Development. I really enjoy learning languages and frameworks.
 
 Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON / PHP
