@@ -1,5 +1,3 @@
-![Development](https://github.com/kaaniince/kaaniince/blob/main/fall_desktop_dark_mode.jpg)
-
 ## Kaan Ince
 
 I'm Kaan from Turkey,and I do content on Development. I really enjoy learning languages and frameworks.
