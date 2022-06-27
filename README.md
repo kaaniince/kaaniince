@@ -9,16 +9,16 @@ I do content on Development. I really enjoy learning languages and frameworks.
 
 
 - 🌱 I’m currently learning Data Science and ML 
+- <br>
+<hr>
 
-<br>
-<br>
-<a href="https://www.linkedin.com/in/kaaniince/" target="blank"><img align="left" alt='linkedin' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="22" widht="22"/></a>
+<a href="https://www.linkedin.com/in/kaaniince/" target="blank"><img align="left" alt='linkedin' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="55" widht="55"/></a>
 
 
-<a href="https://twitter.com/iincekaan" target="blank"><img align="left" alt='twitter' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="22" widht="22"/></a>
+<a href="https://twitter.com/iincekaan" target="blank"><img align="mid" alt='twitter' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="55" widht="55"/></a>
 
  
-<br>
+<hr>
 
 
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=kaaniince&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaaniince&langs_count=8&theme=algolia&layout=compact)
