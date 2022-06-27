@@ -9,7 +9,7 @@ I do content on Development. I really enjoy learning languages and frameworks.
 
 
 - 🌱 I’m currently learning Data Science and ML 
-- <br>
+<br>
 <hr>
 
 <a href="https://www.linkedin.com/in/kaaniince/" target="blank"><img align="left" alt='linkedin' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="55" widht="55"/></a>
