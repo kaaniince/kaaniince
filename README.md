@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
   
 </p>
-<h1>Hey there, I'm <a  href="https://github.com/tanyagupta0201/">Tanya Gupta </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey there, I'm <a  href="https://github.com/tanyagupta0201/">Kaan Ince </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 I do content on Development. I really enjoy learning languages and frameworks.
 
 ### Skills and  Experience
@@ -24,5 +24,5 @@ I do content on Development. I really enjoy learning languages and frameworks.
  
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201&theme=dark)](https://github.com/tanyagupta0201/github-readme-stats)
 
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=kaaniince&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaaniince&langs_count=8&theme=algolia&layout=compact) |
