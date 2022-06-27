@@ -1,6 +1,11 @@
 ## Kaan Ince
+<p align="center">
 
-I'm Kaan from Turkey,and I do content on Development. I really enjoy learning languages and frameworks.
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
+<h1>Hey there, I'm <a  href="https://github.com/tanyagupta0201/">Tanya Gupta </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+I do content on Development. I really enjoy learning languages and frameworks.
 
 ### Skills and  Experience
 
@@ -16,4 +21,8 @@ I'm Kaan from Turkey,and I do content on Development. I really enjoy learning la
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaaniince)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201&theme=dark)](https://github.com/tanyagupta0201/github-readme-stats)
 
