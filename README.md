@@ -4,7 +4,6 @@ I'm Kaan from Turkey,and I do content on Development. I really enjoy learning la
 
 ### Skills and  Experience
 
-* ⚛ React 
 * 💻 HTML, CSS, JS, PHP
 * 🔍 Python
 
