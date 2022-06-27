@@ -12,7 +12,10 @@ I do content on Development. I really enjoy learning languages and frameworks.
 
 <br>
 <br>
-![Github Images][<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kaaniince/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iincekaan)  
+<a href="https://www.linkedin.com/in/kaaniince/" target="blank"><img align="left" alt='linkedin' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="22" widht="22"/></a>
+
+
+<a href="https://twitter.com/iincekaan" target="blank"><img align="left" alt='twitter' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="22" widht="22"/></a>
 
  
 <br>
