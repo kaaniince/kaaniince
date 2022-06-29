@@ -9,6 +9,7 @@ I do content on Development. I really enjoy learning languages and frameworks.
 
 
 - 🌱 I’m currently learning Data Science and ML 
+- 🎓 I joined the IBM Coaching Program
 <br>
 <hr>
 
