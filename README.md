@@ -9,7 +9,8 @@ I do content on Development. I really enjoy learning languages and frameworks.
 
 
 - 🌱 I’m currently learning Data Science and ML 
-- 🎓 I joined the IBM Coaching Program
+- 🎓 I joined the IBM Coaching Program. 
+- 🎓 I took a course in Neural Networks and Machine Learning at university. I submitted 2 homeworks, 1 project and 1 final. I got an AA from the course
 <br>
 <hr>
 
