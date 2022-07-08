@@ -8,8 +8,8 @@ I do content on Development. I really enjoy learning languages and frameworks.
 
 
 
-- 🌱 I’m currently learning Data Science and ML 
-- 🎓 I joined the IBM Coaching Program. 
+- 🌱 I’m currently learning  
+- 🎓 I joined the IBM Coaching and Erasmus + Program 
 <br>
 <hr>
 
