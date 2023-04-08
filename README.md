@@ -3,7 +3,7 @@ I do content on Development. I really enjoy learning languages and frameworks.
 
 ### Skills and  Experience
 
-* 💻 HTML, CSS, JS, SQL
+* 💻 React Developer
 * 🔍 Python
 
 
